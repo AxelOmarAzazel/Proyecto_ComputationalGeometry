@@ -1,4 +1,3 @@
-#! usr/env/python3
 
 from optparse import Values
 import scipy.spatial as cg
